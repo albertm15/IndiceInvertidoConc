@@ -1,10 +1,4 @@
-/* ---------------------------------------------------------------
-Práctica 1.
-Código fuente: BarahonaMartinPRA1
-Grau Informàtica
-49381774S Albert Martín López.
-49380060A Pau Barahona Setó.
---------------------------------------------------------------- */
+
 package eps.scp;
 import java.io.*;
 import java.text.Normalizer;
